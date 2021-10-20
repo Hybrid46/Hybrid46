@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Hybrid46
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning progamming
+- 📫 How to reach me: hybrid_46_2@hotmail.com
