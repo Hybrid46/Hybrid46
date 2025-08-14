@@ -8,9 +8,9 @@ I'm a passionate developer who loves to explore the realms of game development, 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Tools & Frameworks
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Raylib](https://img.shields.io/badge/raylib-%23000000.svg?style=for-the-badge&logo=raylib&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
+[![Raylib](https://img.shields.io/badge/raylib_cs-%23000000.svg?style=for-the-badge&logo=raylib&logoColor=white)](https://github.com/ChrisDill/Raylib-cs)
+[![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)](https://www.opengl.org)
 
 ## 🌱 Learning
 I'm currently diving deeper into:
